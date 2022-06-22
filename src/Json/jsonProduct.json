@@ -1,0 +1,4038 @@
+
+    "Productos"; [
+      {
+        "Producto": {
+          "Codigo": "0101000114",
+          "NombreProducto": "RODAPIE ROMANICO 0.10M  A X 2.438M L 17MM (6/P) (960340)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 86,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 151.9301,
+            "Precio": 243.16
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 151.9294,
+            "Precio": 243.16
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 152.0994,
+            "Precio": 243.16
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 151.9305,
+            "Precio": 243.16
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 151.9302,
+            "Precio": 243.16
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 151.9302,
+            "Precio": 243.16
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101015001",
+          "NombreProducto": "PLYROCK GRIS DM 4 X 10 (10MM) PARED EXT/INT (960097/960096) ",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRP"
+        },
+        "sucursal": [
+          {
+            "Existencia": 58,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 775.6708,
+            "Precio": 1079.4
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101019801",
+          "NombreProducto": "LAM. ZINC CORRUGADO C- 26 12' (0.40MM) (HALCON) (SEGUNDA)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        }
+      },
+      {
+        "Producto": {
+          "Codigo": "0101047201",
+          "NombreProducto": "PLYROCK GRIS DM  4 X 8 (6 MM) (979408)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRP"
+        },
+        "sucursal": [
+          {
+            "Existencia": 128,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 396.1278,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 396.1278,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 14,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 396.1279,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 87,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 396.1279,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 34,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 396.1278,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 32,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 396.1278,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 45,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 396.1279,
+            "Precio": 535.6
+          },
+          {
+            "Existencia": 46,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 396.1279,
+            "Precio": 535.6
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101047301",
+          "NombreProducto": "PLYROCK GRIS DM 4 X 8 (8MM) 960018 (960019)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBw8Q"
+        },
+        "sucursal": [
+          {
+            "Existencia": 194,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 45,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 31,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 341,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 542.8982,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 29,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 539.8783,
+            "Precio": 748.4
+          },
+          {
+            "Existencia": 38,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 539.8782,
+            "Precio": 748.4
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101057301",
+          "NombreProducto": "PLYROCK GRIS DM 4 X 8 (12MM) (979422)/(979911)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 63,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 20,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 67,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 741.4516,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 33,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 19,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 741.4518,
+            "Precio": 1075.12
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101076301",
+          "NombreProducto": "PLYROCK GRIS DM 4 X 8 (10MM) 960093/(978897) 2BRA",
+          "Descripcion": "1219X2438",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 609,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 647.3611,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 48,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 714,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 61,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 51,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 647.3614,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          },
+          {
+            "Existencia": 29,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 647.3615,
+            "Precio": 889.44
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101087001",
+          "NombreProducto": "LAM. ZINC TROQ ALUZINC BLANCO C-26 12' (0.40MM)(HALCON)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAICAgIC"
+        },
+        "sucursal": [
+          {
+            "Existencia": 80,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 61,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 54,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 55,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          },
+          {
+            "Existencia": 45,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 604.1987,
+            "Precio": 1447.98
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101088301",
+          "NombreProducto": "LAM. ZINC LISO GALV C-26 3 X 12' (HALCON) (0.40MM)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 38,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 527.2725,
+            "Precio": 741.8
+          },
+          {
+            "Existencia": 16,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 527.2725,
+            "Precio": 741.8
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 527.2725,
+            "Precio": 741.8
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 527.2725,
+            "Precio": 741.8
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101116401",
+          "NombreProducto": "LAM. ZINC CORRUGADO ECO C-26 12' (0.35MM) (HALCON) ",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        }
+      },
+      {
+        "Producto": {
+          "Codigo": "0101116501",
+          "NombreProducto": "LAM. ZINC CORRUGADO ECO C-26 10' (0.35MM) (HALCON) ",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 40,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          },
+          {
+            "Existencia": 138,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          },
+          {
+            "Existencia": 68,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          },
+          {
+            "Existencia": 20,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 263.5398,
+            "Precio": 540.93
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101116601",
+          "NombreProducto": "LAM. ZINC CORRUGADO ECO C-26 8' (0.35MM) (HALCON) ",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 20,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 200.9591,
+            "Precio": 432.75
+          },
+          {
+            "Existencia": 48,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 200.9591,
+            "Precio": 432.75
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 200.9591,
+            "Precio": 432.75
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 200.9591,
+            "Precio": 432.75
+          },
+          {
+            "Existencia": 15,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 200.9591,
+            "Precio": 432.75
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101117601",
+          "NombreProducto": "TEJA ROMANA COLONIAL 45CM X 28CM BLOCK",
+          "Descripcion": "Material: ARCILA COCIDA\nLargo: 45 cm\nAncho: 28 cm\nUnidades por m2: 12\n Resistencia al rompimiento: 130 KGS\r\n\r\n12 Unidades = 1M2\n",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/7gAOQWRvYmUA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 681,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 31.9232,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 37,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 31.9235,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 277,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 31.9231,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 5544,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 31.9231,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 501,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 31.9236,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 104,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 31.9233,
+            "Precio": 51.6
+          },
+          {
+            "Existencia": 563,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 31.9234,
+            "Precio": 51.6
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101130401",
+          "NombreProducto": "TEJALUM HALCON C-26 1.11M X 10' (NJA) (DURA)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 3,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 415.4755,
+            "Precio": 1401.7
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 415.4755,
+            "Precio": 1401.7
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101130601",
+          "NombreProducto": "LAM. ZINC LISO GALV C-28 4 X 8 (HALCON) (0.31MM)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 6,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 230.8673,
+            "Precio": 476.66
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 230.8673,
+            "Precio": 476.66
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101130901",
+          "NombreProducto": "TEJALUM HALCON C-26 1.11M X 12' (NJA) (SUAVE)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 55,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 68,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 67,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 44,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 156,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 827.2302,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 96,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 894.7006,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 84,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          },
+          {
+            "Existencia": 42,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 896.7355,
+            "Precio": 1682.04
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131001",
+          "NombreProducto": "CUMBRERA TEJALUM HALCON C-26  0.40 X 1.22 MTS (NJA)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 12,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 108.2773,
+            "Precio": 197.71
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 108.279,
+            "Precio": 197.71
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 108.2773,
+            "Precio": 197.71
+          },
+          {
+            "Existencia": 16,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 108.2773,
+            "Precio": 197.71
+          },
+          {
+            "Existencia": 53,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 108.2768,
+            "Precio": 197.71
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131401",
+          "NombreProducto": "LAM. OND P-10 PLYCEM 8' 1C 6MM (1319917)",
+          "UnidadMedida": 1,
+          "Imagen": "iVBORw0KGgoAAAANSUhEUgAAAYQAAAEaCAMAAAAm"
+        },
+        "sucursal": [
+          {
+            "Existencia": 78,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 72,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 1775,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1098.8745,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1067.381,
+            "Precio": 1540.79
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131501",
+          "NombreProducto": "LAM. OND P-10 PLYCEM 10' 1C 6MM (1319918)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 128,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 1286.5119,
+            "Precio": 1888.29
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1286.5119,
+            "Precio": 1888.29
+          },
+          {
+            "Existencia": 876,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1321.8007,
+            "Precio": 1888.29
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1286.5119,
+            "Precio": 1888.29
+          },
+          {
+            "Existencia": 32,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1286.5119,
+            "Precio": 1888.29
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1286.5119,
+            "Precio": 1888.29
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131601",
+          "NombreProducto": "LAM. OND P-10 PLYCEM 12' 1C 6MM (1319919)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 50,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          },
+          {
+            "Existencia": 16,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          },
+          {
+            "Existencia": 151,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          },
+          {
+            "Existencia": 33,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          },
+          {
+            "Existencia": 47,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1530.3195,
+            "Precio": 2269.86
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131801",
+          "NombreProducto": "LAM. OND P-7 PLYCEM 6' 1C 5MM (1319675)",
+          "Descripcion": "",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 73,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 512.3505,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 512.3505,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 512.3505,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 261,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 512.3505,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 43,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 512.3505,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 45,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 512.3504,
+            "Precio": 756.26
+          },
+          {
+            "Existencia": 46,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 512.3504,
+            "Precio": 756.26
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101131901",
+          "NombreProducto": "LAM. OND P-7 PLYCEM 8' 1C 5MM (1319677)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 43,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 682.8829,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 682.8829,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 33,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 725.3054,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 2019,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 733.0946,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 29,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 682.8829,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 25,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 729.5348,
+            "Precio": 1042.19
+          },
+          {
+            "Existencia": 39,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 682.883,
+            "Precio": 1042.19
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101132001",
+          "NombreProducto": "LAM. OND P-7 PLYCEM 10' 1C 5MM (1319679)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 79,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 817.8421,
+            "Precio": 1260.79
+          },
+          {
+            "Existencia": 26,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 817.8421,
+            "Precio": 1260.79
+          },
+          {
+            "Existencia": 332,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 864.3025,
+            "Precio": 1260.79
+          },
+          {
+            "Existencia": 67,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 817.8421,
+            "Precio": 1260.79
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 817.8421,
+            "Precio": 1260.79
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 817.8421,
+            "Precio": 1260.79
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101132101",
+          "NombreProducto": "LAM. OND P-7 PLYCEM 12' 1C 5MM (1319691)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 106,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 982.5999,
+            "Precio": 1512.88
+          },
+          {
+            "Existencia": 35,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1059.5428,
+            "Precio": 1512.88
+          },
+          {
+            "Existencia": 1232,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1072.3666,
+            "Precio": 1512.88
+          },
+          {
+            "Existencia": 40,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 982.5999,
+            "Precio": 1512.88
+          },
+          {
+            "Existencia": 18,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1021.6792,
+            "Precio": 1512.88
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 982.5999,
+            "Precio": 1512.88
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101132301",
+          "NombreProducto": "CUMBRERA OND.  P-7 EUREKA (1319693)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 70,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 275.2975,
+            "Precio": 414.55
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 275.2975,
+            "Precio": 414.55
+          },
+          {
+            "Existencia": 694,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 280.9213,
+            "Precio": 414.55
+          },
+          {
+            "Existencia": 73,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 275.2975,
+            "Precio": 414.55
+          },
+          {
+            "Existencia": 64,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 275.2975,
+            "Precio": 414.55
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101133501",
+          "NombreProducto": "LAM. OND P-7 DURALITA 8' 1C 5MM ROJO",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 2,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 601.4878,
+            "Precio": 888.61
+          },
+          {
+            "Existencia": 9,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 601.4878,
+            "Precio": 888.61
+          },
+          {
+            "Existencia": 34,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 601.4878,
+            "Precio": 888.61
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 601.4878,
+            "Precio": 888.61
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101135501",
+          "NombreProducto": "LAM. OND P-10 PLYCEM 6' 1C 6MM (1319916)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 47,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 50,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 124,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 798.5437,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 25,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          },
+          {
+            "Existencia": 47,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 798.5436,
+            "Precio": 1134.75
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0101135701",
+          "NombreProducto": "MASILLA PLYROCK POLVO 22KG GRIS DR-510 (983222)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1204.5481,
+            "Precio": 1736.55
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0102002801",
+          "NombreProducto": "LAM. PLYCEM 4 X 8 X 22MM MACHIMB (971677)",
+          "Descripcion": "6811820000",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 219,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 46,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 21,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 101,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1656.5815,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 19,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 23,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          },
+          {
+            "Existencia": 59,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1656.5816,
+            "Precio": 2351.98
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0102009101",
+          "NombreProducto": "CUMBRERA OND. ROJA P-10 BR EUREKA TERRACOTA 1320934 (965766)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAtAC0AAD/4S5yRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 42,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 33,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 263,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 18,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 404.0404,
+            "Precio": 578.8
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0102009201",
+          "NombreProducto": "CUMBRERA LIMATON ROJA  BR EUREKA TERRACOTA 1321648 (965770)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAtAC0AAD/4S0GRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 30,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          },
+          {
+            "Existencia": 49,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          },
+          {
+            "Existencia": 578,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          },
+          {
+            "Existencia": 31,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          },
+          {
+            "Existencia": 37,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 393.1251,
+            "Precio": 560.83
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0102009801",
+          "NombreProducto": "MASILLA PLYROCK CUBETA 25KG GRIS (960752)/(980834) DR-510",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIB"
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1102.8671,
+            "Precio": 1707.68
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0102011601",
+          "NombreProducto": "LAM. PLYCEM 4 X 8 X 25MM MACHINB (971829)",
+          "Descripcion": "6811820000",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/7gAOQWRvYmUA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 260,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 1906.4597,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 19,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 1906.4601,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 19,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1906.4597,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 50,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1906.4598,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 21,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1906.4597,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 1906.4596,
+            "Precio": 2672.27
+          },
+          {
+            "Existencia": 20,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1906.4597,
+            "Precio": 2672.27
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0121005401",
+          "NombreProducto": "LAM. ZINC CORRUGADO C-26 12' (0.40MM) (HALCON) ",
+          "Descripcion": "TECHOS",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 102,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 527.2126,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 64,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 527.2125,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 527.231,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 527.2126,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 527.213,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 532.3382,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 70,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 527.1386,
+            "Precio": 749.99
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 527.2126,
+            "Precio": 749.99
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0121005601",
+          "NombreProducto": "LAM. ZINC CORRUGADO C-26 8' (0.40MM) (HALCON)",
+          "Descripcion": "TECHOS",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 97,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 330.6969,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 57,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 330.697,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 122,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 330.6969,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 86,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 330.6969,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 330.697,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 330.6972,
+            "Precio": 525.02
+          },
+          {
+            "Existencia": 91,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 330.6964,
+            "Precio": 500.01
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 330.6969,
+            "Precio": 500.01
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0121005701",
+          "NombreProducto": "LAM. ZINC CORRUGADO C-26 6' (0.40MM) (HALCON)",
+          "Descripcion": "TECHOS",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 66,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 110,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 148,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 97,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 16,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 78,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 213.6345,
+            "Precio": 375
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 213.6345,
+            "Precio": 375
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0121005801",
+          "NombreProducto": "LAM. ZINC CORRUGADO C-26 10' (0.40MM) (HALCON)",
+          "Descripcion": "TECHOS",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 131,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 94,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 406.4336,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 200,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 126,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 80,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 92,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 107,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          },
+          {
+            "Existencia": 48,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 406.4335,
+            "Precio": 625.01
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0201012501",
+          "NombreProducto": "LAM. TEXT FIBROCEL PLYCEM 2 X 4 X 5MM GALAXY (959958)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1641,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 934,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 459,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 50,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 86.5706,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 262,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 86.5705,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 98,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          },
+          {
+            "Existencia": 66,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 86.5708,
+            "Precio": 137.47
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0201012601",
+          "NombreProducto": "LAM. TEXT FIBROCEL PLYCEM 2 X 4 X 4MM GALAXY (959901)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4RcWRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 4369,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 79.8216,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 714,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 77.8299,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 6733,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 80.654,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 5915,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 80.0466,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 363,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 79.793,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 391,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 78.2939,
+            "Precio": 109.26
+          },
+          {
+            "Existencia": 85,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 69.4241,
+            "Precio": 109.26
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0201014701",
+          "NombreProducto": "LAM. TEXTU TERMOACUSTICA FIBROCEL BLANCO 2 X 2 (959933)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 34,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 58.9477,
+            "Precio": 84.21
+          },
+          {
+            "Existencia": 200,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 58.9477,
+            "Precio": 84.21
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202000101",
+          "NombreProducto": "LAM. POROPLAST 4 X 8 X 1\"",
+          "Descripcion": "",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 26,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 140.3564,
+            "Precio": 200.71
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 140.3565,
+            "Precio": 200.71
+          },
+          {
+            "Existencia": 13,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 140.3562,
+            "Precio": 200.71
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 140.3562,
+            "Precio": 200.71
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 140.3661,
+            "Precio": 200.71
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202000201",
+          "NombreProducto": "LAM. POROPLAST 4 X 8 X 2\"",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 60,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 280.8091,
+            "Precio": 401.42
+          },
+          {
+            "Existencia": 49,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 282.1596,
+            "Precio": 401.42
+          },
+          {
+            "Existencia": 11,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 280.809,
+            "Precio": 401.42
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 280.8091,
+            "Precio": 401.42
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202000301",
+          "NombreProducto": "LAM. POROPLAST 4 X 8 X 3\"",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/7gAOQWRvYmUA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 12,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 419.1482,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 419.1481,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 419.1481,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 419.1481,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 423.2565,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 14,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 419.1481,
+            "Precio": 602.13
+          },
+          {
+            "Existencia": 29,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 419.148,
+            "Precio": 602.13
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202000401",
+          "NombreProducto": "LAM. POROPLAST 4 X 8 X 4\"",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 8,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 542.8402,
+            "Precio": 802.84
+          },
+          {
+            "Existencia": 13,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 542.8403,
+            "Precio": 802.84
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 542.8404,
+            "Precio": 802.84
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 542.8403,
+            "Precio": 802.84
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 554.8112,
+            "Precio": 802.84
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 542.8403,
+            "Precio": 802.84
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202000601",
+          "NombreProducto": "LAM. POROPLAST LISO 2 X 4 X 3/4 D12-12KG / MT3",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 2624,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 26.6769,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 1670,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 26.6662,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 375,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 26.6421,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 28,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 26.6423,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 926,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 26.751,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 332,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 26.6055,
+            "Precio": 37.99
+          },
+          {
+            "Existencia": 1281,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 26.6422,
+            "Precio": 37.99
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202001701",
+          "NombreProducto": "LAM. POROPLAST ESTAMPADA COLONIAL 2 X 4",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1130,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 30.9872,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 86,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 30.9873,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 58,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 30.9872,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 223,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 30.9872,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 62,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 30.9872,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 109,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 31.0418,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 45,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 30.9872,
+            "Precio": 44.15
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202001801",
+          "NombreProducto": "LAM. POROPLAST ESTAMPADA LAJA 2 X 4",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 135,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 30.3349,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 149,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 30.3349,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 44,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 30.3349,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 82,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 30.7683,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 30.3349,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 31,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 30.3349,
+            "Precio": 44.15
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0202001901",
+          "NombreProducto": "LAM. POROPLAST ESTAMPADA CIELO 2 X 4",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 252,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 30.619,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 125,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 30.5181,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 32,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 30.518,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 101,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 30.5181,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 52,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 30.5181,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 76,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 30.9395,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 125,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 30.4475,
+            "Precio": 44.15
+          },
+          {
+            "Existencia": 267,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 30.5181,
+            "Precio": 44.15
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0203000301",
+          "NombreProducto": "LAM. ARMSTRONG 755B 2 X 4 X 5/8. ",
+          "Descripcion": "12 x caja",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 154.4386,
+            "Precio": 262.06
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 154.4387,
+            "Precio": 262.06
+          },
+          {
+            "Existencia": 26,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 154.4386,
+            "Precio": 262.06
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0203001101",
+          "NombreProducto": "LAM. ARMSTRONG 704A 2X2X5/8 CORTEGA (16U.CAJA)",
+          "Descripcion": "16 x Paq.",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 918,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 97.9786,
+            "Precio": 139.97
+          },
+          {
+            "Existencia": 484,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 97.9758,
+            "Precio": 139.97
+          },
+          {
+            "Existencia": 1251,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 100.4467,
+            "Precio": 139.97
+          },
+          {
+            "Existencia": 1395,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 97.9792,
+            "Precio": 139.97
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204000101",
+          "NombreProducto": "LAM. YESO 4 X 8 X 1/2 MR (P.R) GUARD REY(802890)/807610",
+          "Descripcion": "680911000000",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 1096,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 324.7387,
+            "Precio": 450
+          },
+          {
+            "Existencia": 174,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 325.4491,
+            "Precio": 450
+          },
+          {
+            "Existencia": 53,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 314.826,
+            "Precio": 450
+          },
+          {
+            "Existencia": 940,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 325.9352,
+            "Precio": 450
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 325.4492,
+            "Precio": 450
+          },
+          {
+            "Existencia": 173,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 324.5265,
+            "Precio": 450
+          },
+          {
+            "Existencia": 59,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 313.3989,
+            "Precio": 450
+          },
+          {
+            "Existencia": 157,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 325.4491,
+            "Precio": 450
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204001801",
+          "NombreProducto": "LAM. PERMABASE 4 X 8 X 1/2 (P.R.) (500077)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 811.4017,
+            "Precio": 1410
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 811.3979,
+            "Precio": 1410
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204003601",
+          "NombreProducto": "REYGLASS 4 X 8 X 1/2 (AZUL) (803499)",
+          "Descripcion": "68091900000",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 58,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 611.769,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 80,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 611.769,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 32,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 611.3941,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 80,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 611.769,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 72,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 611.5375,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 72,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 611.769,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 11,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 611.769,
+            "Precio": 959.99
+          },
+          {
+            "Existencia": 78,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 611.769,
+            "Precio": 959.99
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204003801",
+          "NombreProducto": "LAM. YESO 4 X 8 X 1/2 LIGHTREY REG  (P.R) (804981)",
+          "Descripcion": "1312 en  1x40",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 2565,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 218.7923,
+            "Precio": 278
+          },
+          {
+            "Existencia": 1007,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 208.1262,
+            "Precio": 278
+          },
+          {
+            "Existencia": 1189,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 208.1261,
+            "Precio": 278
+          },
+          {
+            "Existencia": 470,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 206.4329,
+            "Precio": 278
+          },
+          {
+            "Existencia": 697,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 208.1261,
+            "Precio": 278
+          },
+          {
+            "Existencia": 1791,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 206.8886,
+            "Precio": 278
+          },
+          {
+            "Existencia": 355,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 207.4909,
+            "Precio": 278
+          },
+          {
+            "Existencia": 127,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 207.04,
+            "Precio": 278
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204004701",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM HARMONY (249)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEASABIAAD/4S0ORXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 61.295,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 61.2956,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 61.2961,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 11,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 61.2962,
+            "Precio": 153.34
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204004801",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM COLONIAL (255)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEASABIAAD/4S0ORXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 33,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 58.4351,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 9,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 58.4357,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 58.4341,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 9,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 58.4356,
+            "Precio": 153.34
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204004901",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM CATEDRAL (239)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcG"
+        },
+        "sucursal": [
+          {
+            "Existencia": 21,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 69.7034,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 13,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 69.7034,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 15,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 69.7037,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 45.2153,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 31,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 69.7031,
+            "Precio": 153.34
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204005001",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM TEXT. CIRCULO (260)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 76,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 67.5638,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 34,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 67.5636,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 67.5634,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 67.5637,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 104,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 67.5637,
+            "Precio": 153.34
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204005101",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM NIEVE (991)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 58.2415,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 58.2415,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 58.2415,
+            "Precio": 153.34
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 58.2389,
+            "Precio": 153.34
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0204005401",
+          "NombreProducto": "LAM. YESO 2 X 4 X 7.5 MM MADERA ROJA (DF031A15)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 69,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 90.0636,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 31,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 90.0634,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 90.0639,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 43,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 90.0637,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 90.0639,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 36,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 90.0182,
+            "Precio": 196.7
+          },
+          {
+            "Existencia": 17,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 90.0632,
+            "Precio": 196.7
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0207000301",
+          "NombreProducto": "PANEL COVINTEC T-2  4 X 8 X 3\" (2\"X4\" CUADRO)",
+          "Descripcion": "",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 29,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 932.5142,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 30,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 935.3022,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 13,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 932.5141,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 39,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 932.514,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 23,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 932.5141,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 938.2053,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 9,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 932.514,
+            "Precio": 1334.14
+          },
+          {
+            "Existencia": 28,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 932.5141,
+            "Precio": 1334.14
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0207000801",
+          "NombreProducto": "PANEL COVINTEC T-3  4 X 8 X3\" (2X6\" CUADRO)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 2,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 840.3739,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 40,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 840.3742,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 20,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 840.3742,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 6,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 840.3743,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 840.3737,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 14,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 842.4382,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 7,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 840.3742,
+            "Precio": 1203.24
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 840.3742,
+            "Precio": 1203.24
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0207000901",
+          "NombreProducto": "PANEL COVINTEC T-1 4 X 8 X 3`` (2` X 2`` CUADRO)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYEBAQF"
+        },
+        "sucursal": [
+          {
+            "Existencia": 24,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 1143.5965,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 25,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 1143.5965,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 21,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 1143.5965,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 22,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 1143.5964,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 9,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 1153.2914,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 5,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 1143.5965,
+            "Precio": 1652.4
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 1143.5965,
+            "Precio": 1652.4
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0207002001",
+          "NombreProducto": "PANEL PCH 1.20MX2.44MX60MM RETICULA 80MMX75MM ACERO 2.4MM CONE",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 12,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 866.9679,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 16,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 866.9678,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 866.9679,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 868.0469,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 43,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 866.9678,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 866.9678,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 866.9678,
+            "Precio": 1252.01
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 866.9678,
+            "Precio": 1252.01
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0207004001",
+          "NombreProducto": "PANEL PCH 1.20MX2.44MX50MM RETICULA 80MMX150MM ACERO 2.4MM CONE",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 8,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 735.2317,
+            "Precio": 1062.58
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0210000101",
+          "NombreProducto": "DENGLASS 4 X 8 X 1/2(AMARILLA)",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 102,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 755.468,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 47,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 755.468,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 42,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 755.468,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 8,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 755.486,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 41,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 755.468,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 32,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 755.468,
+            "Precio": 1400
+          },
+          {
+            "Existencia": 249,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 755.468,
+            "Precio": 1400
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0212000701",
+          "NombreProducto": "CINTA P/GYPSUM 250",
+          "Descripcion": "CAJA",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/4QCuRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 9,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 87.758,
+            "Precio": 135.57
+          },
+          {
+            "Existencia": 33,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 87.758,
+            "Precio": 135.57
+          },
+          {
+            "Existencia": 19,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 87.758,
+            "Precio": 135.57
+          },
+          {
+            "Existencia": 18,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 87.758,
+            "Precio": 135.57
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 87.758,
+            "Precio": 135.57
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215000101",
+          "NombreProducto": "TABLILLA PVC 7.5MM BLANCA C/DIV. 20 CM X 5.9M(1.18 M2) BLX",
+          "Descripcion": "39259090000",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4RnURXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 22,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 172.2604,
+            "Precio": 185.22
+          },
+          {
+            "Existencia": 11,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 172.2604,
+            "Precio": 185.22
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 172.2603,
+            "Precio": 185.22
+          },
+          {
+            "Existencia": 10,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 172.2604,
+            "Precio": 185.22
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215000110",
+          "NombreProducto": "TABLILLA PVC 6.5MM MADERA LAM.CAOBA 25CMX5.90M (1.4750 M2) BLX",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 4,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 204.3361,
+            "Precio": 219.33
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 204.3361,
+            "Precio": 219.33
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 204.3361,
+            "Precio": 219.33
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215000910",
+          "NombreProducto": "TABLILLA PVC  7 MM BLANCA LISA MATE 25 CM X5.90 M (1.48M2) PLX",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYGBgYH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 3.88,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 177.1229,
+            "Precio": 190.46
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 177.1229,
+            "Precio": 190.46
+          },
+          {
+            "Existencia": 29,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 177.1229,
+            "Precio": 190.46
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 177.1219,
+            "Precio": 190.46
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215001510",
+          "NombreProducto": "TABLILLA PVC 6.5MM CENIZARO MMACHIM. C/DIV 25 CM X5.90 M (1.48M2)PLX",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYGBgYH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 2,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 169.4871,
+            "Precio": 182.24
+          },
+          {
+            "Existencia": 3,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 169.4871,
+            "Precio": 182.24
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 169.4871,
+            "Precio": 182.24
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215001801",
+          "NombreProducto": "TABLILLA PVC 7.5 MM COTTA.DIV.ORO 20CMX5.90M(1.18M2) BLX",
+          "Descripcion": "39259090000",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/4RuGRXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 3,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 170.5725,
+            "Precio": 183.41
+          },
+          {
+            "Existencia": 14,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 170.5724,
+            "Precio": 183.41
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215002001",
+          "NombreProducto": "CORNISA PVC P/TABLILLA 7.5MM COTTA DIV ORO 5.9M ",
+          "Descripcion": "39259090000",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 26.5,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 98.1534,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 60,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 98.1535,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 113,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 98.1535,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 203,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 98.1536,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 130,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 98.1534,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 98.1536,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 12,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 98.1535,
+            "Precio": 151.01
+          },
+          {
+            "Existencia": 61,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 98.1535,
+            "Precio": 151.01
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215002010",
+          "NombreProducto": "TABLILLA PVC 7 MM CAOBA C/DIV. ORO 20 CM X 5.9M(1.18 M2) PREMIUM PLX",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYGBgYH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 127.6511,
+            "Precio": 137.26
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0215009010",
+          "NombreProducto": "TABLILLA PVC 7 MM CENIZARO C/DIV. 20CM X 5.9M (1.18M2) PLX",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMC"
+        },
+        "sucursal": [
+          {
+            "Existencia": 11,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 138.1773,
+            "Precio": 148.58
+          },
+          {
+            "Existencia": 20,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 138.1774,
+            "Precio": 148.58
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 138.1773,
+            "Precio": 148.58
+          },
+          {
+            "Existencia": 11,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 138.1773,
+            "Precio": 148.58
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216000401",
+          "NombreProducto": "TABLILLA PVC 6MM  MADERA BEIGE  20CM X 5.95 (1.19M2) L01",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 20,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 121.7185,
+            "Precio": 130.68
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216003110",
+          "NombreProducto": "TABLILLA PVC  7 MM BLANCA LISA MATE 25 CM X5.90 M (1.48M2) PREMIUM  PLX",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1838,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 319.9255,
+            "Precio": 510.52
+          },
+          {
+            "Existencia": 245,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 325.1771,
+            "Precio": 510.52
+          },
+          {
+            "Existencia": 80,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 326.073,
+            "Precio": 510.52
+          },
+          {
+            "Existencia": 449,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 332.412,
+            "Precio": 510.52
+          },
+          {
+            "Existencia": 595,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 347.1558,
+            "Precio": 510.52
+          },
+          {
+            "Existencia": 1603,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 325.0892,
+            "Precio": 510.52
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216004010",
+          "NombreProducto": "TABLILLA PVC 6.5 MM MADERA LAM. CAOBA 25 CM X 5.95 M (1.48M2) (TV) (CN5)",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 5,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 152.6104,
+            "Precio": 164.1
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216004210",
+          "NombreProducto": "TABLILLA PVC 7 MM BLANCO BRILLO C/DIV. 20 CM X 6 M(1.20 M2) ARTS",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        }
+      },
+      {
+        "Producto": {
+          "Codigo": "0216012510",
+          "NombreProducto": "TABLILLA PVC 6.5MM MADERA LAM.CAOBA 25CMX5.90M (1.48 M2) S&S CSE006-XP",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEASABIAAD/4RY4RXhpZgAA"
+        },
+        "sucursal": [
+          {
+            "Existencia": 5,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 180.8868,
+            "Precio": 194.51
+          },
+          {
+            "Existencia": 21,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 180.8885,
+            "Precio": 194.51
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216012610",
+          "NombreProducto": "TABLILLA PVC 6.5MM ROBLE DORADO 25CMX5.90M (1.48 M2) S&S CSE012-XP",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAoHBwgH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 23,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 177.99,
+            "Precio": 191.38
+          },
+          {
+            "Existencia": 4,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 177.99,
+            "Precio": 191.38
+          },
+          {
+            "Existencia": 7,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 177.99,
+            "Precio": 191.38
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216012710",
+          "NombreProducto": "TABLILLA PVC 6.5MM NOGAL 25CM X 5.90M (1.48 M2) S&S  CSE007-XP",
+          "Descripcion": "",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAoHBwgH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 27,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 178.7916,
+            "Precio": 192.4
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 178.7916,
+            "Precio": 192.4
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216012810",
+          "NombreProducto": "TABLILLA PVC 7.5MM BLANCO MATE C/DIV 20CM X 5.90M (1.18M2) S&S LWM001-XP",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAoHBwgH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 34,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 135.9325,
+            "Precio": 146.16
+          },
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 135.9325,
+            "Precio": 146.16
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0216013210",
+          "NombreProducto": "CORNISA P/TABLILLA ROBLE DORADO 5.90M (S&S) CCSE012-XP",
+          "UnidadMedida": 1,
+          "Imagen": "/9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAoHBwgH"
+        },
+        "sucursal": [
+          {
+            "Existencia": 3,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 77.5067,
+            "Precio": 83.97
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0301001301",
+          "NombreProducto": "LAM. PLYWOOD OKUME BB/BB 4 X 8 X 1/4 (5.5MM) SELEC",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 89,
+            "IdEmpresa": 0,
+            "Empresa": "El Halcón, Casa Matriz",
+            "Costo": 537.024,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 34,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 537.0238,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 27,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 537.0239,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 94,
+            "IdEmpresa": 3,
+            "Empresa": "El Halcón, Suc. Crta a Masaya",
+            "Costo": 537.0239,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 24,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 537.0239,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 44,
+            "IdEmpresa": 7,
+            "Empresa": "El Halcón, Carretera Sur",
+            "Costo": 537.0239,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 46,
+            "IdEmpresa": 8,
+            "Empresa": "El Halcón, Juigalpa",
+            "Costo": 537.0274,
+            "Precio": 631.99
+          },
+          {
+            "Existencia": 138,
+            "IdEmpresa": 9,
+            "Empresa": "El Halcón, Radial Santo Domingo",
+            "Costo": 537.0239,
+            "Precio": 631.99
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0301001401",
+          "NombreProducto": "LAM. PLYWOOD B/CC 4 X 8 X 3/4 (18MM)",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 2,
+            "Empresa": "El Halcón, Suc. Chinandega",
+            "Costo": 946.2625,
+            "Precio": 1113.25
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0301002301",
+          "NombreProducto": "LAM. PLYWOOD B/CC 4 X 8 X 3/16 (4MM)",
+          "Descripcion": "",
+          "UnidadMedida": 1
+        }
+      },
+      {
+        "Producto": {
+          "Codigo": "0301007001",
+          "NombreProducto": "LAM. PLYWOOD OKUME BLUE BB/BB 4 X 8 X 3/16 (4MM) SELEC",
+          "Descripcion": "248 pcs x pallet",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 1,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 238.465,
+            "Precio": 288.63
+          },
+          {
+            "Existencia": 2,
+            "IdEmpresa": 4,
+            "Empresa": "El Halcón, Suc. Rivas",
+            "Costo": 238.465,
+            "Precio": 288.63
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0301007301",
+          "NombreProducto": "LAM. PLYWOOD OKUME BB/BB 4 X 8 X 1/4 (6 MM) SELEC",
+          "Descripcion": "165 pcs x tarima",
+          "UnidadMedida": 1
+        }
+      },
+      {
+        "Producto": {
+          "Codigo": "0301007501",
+          "NombreProducto": "LAM. PLYWOOD 18MM 4X8 BINTANGOR BB (BLUE) SELEC",
+          "Descripcion": "<Características>",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 2,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 851.3125,
+            "Precio": 1001.54
+          }
+        ]
+      },
+      {
+        "Producto": {
+          "Codigo": "0301008501",
+          "NombreProducto": "LAM. PLYWOOD OKUME 12MM 4X8 POPLAR BB (BLUE) SELEC",
+          "Descripcion": "82 UND X PAQ",
+          "UnidadMedida": 1
+        },
+        "sucursal": [
+          {
+            "Existencia": 2,
+            "IdEmpresa": 1,
+            "Empresa": "El Halcón, Suc. Estelí",
+            "Costo": 56
+          }
+        ]
+      }
+    ]
+  
