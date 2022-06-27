@@ -1,10 +1,11 @@
 import sql from "mssql";
+import config from "../config";
 
 const dbsettings = {
-  user: "Sa",
-  password: "E727cd9b1f",
-  server: "192.168.0.2",
-  database: "Halcon",
+  user: config.dbUser,
+  password: config.dbPassword,
+  server: config.dbServer,
+  database: config.dbDatabase,
   options: {
     encrypt: true, // for azure
     trustServerCertificate: true, // change to true for local dev / self-signed certs
@@ -19,4 +20,3 @@ export async function getConnection() {
     console.error(error);
   }
 }
-
