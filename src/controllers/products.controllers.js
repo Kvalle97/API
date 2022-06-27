@@ -5,8 +5,6 @@ export const getproducts = async (reg,res) => {
 
  const pool = await getConnection();
  const result = await pool.request().query('EXEC dbo.SpReplicaApiListarProductos')
- //console.log(JSON.stringify(result.recordset));
-  //res.send(result.recordset);
  
 var datos = ((result.recordset));
 var objetos =[];
@@ -14,7 +12,8 @@ for (var i = 0; i < datos.length; i++) {
     if (objetos.length == 0 || objetos[objetos.length - 1].Codigo!= datos[i].Codigo) {  
         objetos.push({
             Productos: [{
-                Codigo: datos[i].Codigo,Producto: datos[i].Producto,
+                Codigo: datos[i].Codigo,
+                Producto: datos[i].Producto,
                 Descripcion: datos[i].Descripcion,
                 UnidadMedida: datos[i].UnidadMedida
             }]
@@ -47,5 +46,6 @@ for (var i = 0; i < datos.length; i++) {
 
 // Mostrar resultado formateado como JSON
 res.send(JSON.stringify(objetos, null, 4));
+
 
 };  
