@@ -45,7 +45,4 @@ export const DeleteUser = async (req, res) => {
     res.send(error.message);
   }
 
-
-
- 
 }

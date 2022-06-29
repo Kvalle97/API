@@ -4,4 +4,6 @@ export const queries = {
         "insert into UsuariosApi (Nombre,Apellidos,Email,Password) values (@Nombre,@Apellidos,@Email,@Password)",
     getUsersById: 'select * from UsuariosApi where Id = @Id',
     DeleteUser: 'delete from UsuariosApi where Id = @Id',
+    getUserByEmail: 'select * from UsuariosApi where Email = @Email'
+    
 };
