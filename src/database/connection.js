@@ -7,7 +7,6 @@ const dbsettings = {
   password: config.dbPassword,
   server: config.dbServer,
   database: config.dbDatabase,
-  port: config.dbPort,
   options: {
     encrypt: true, // for azure
     trustServerCertificate: true, // change to true for local dev / self-signed certs
