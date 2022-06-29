@@ -20,7 +20,7 @@ for (var i = 0; i < datos.length; i++) {
         });
        objetos.push({ Sucursal: [{    
             Imagen: datos[i].Imagen,
-            existencia: datos[i].existencia,
+            Existencia: datos[i].existencia,
             IdEmpresa: datos[i].IdEmpresa,
             Empresa: datos[i].Empresa,
             Costo: datos[i].Costo,
