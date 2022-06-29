@@ -19,7 +19,8 @@
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
     "mssql": "^8.1.2",
-    "mssql-schema-reader": "^1.0.9"
+    "mssql-schema-reader": "^1.0.9",
+    "swagger-jsdoc": "^6.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
