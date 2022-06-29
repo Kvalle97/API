@@ -1,6 +1,7 @@
 import sql from "mssql";
 import config from "../config";
 
+
 const dbsettings = {
   user: config.dbUser,
   password: config.dbPassword,
