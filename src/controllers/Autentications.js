@@ -35,7 +35,7 @@ export const Signup = async (req, res) => {
   }
 };
 
-export const Signin = async (req, res) => {
+export const Login = async (req, res) => {
   const { Email, Password } = req.body;
   if (Email == null || Password == null) {
     return res.status(400).json({ msg: 'Bad Request' })
@@ -49,7 +49,7 @@ export const Signin = async (req, res) => {
       return res.status(404).json({ msg: 'No Existe registro' })
     }
     const user = result.recordset[0];
-    const isMatch = await bcrypt.compare(password, user.Password)
+    const isMatch = await bcrypt.compare(Password, user.Password)
     //const isMatch = md5(Password) === user.Password;
     if (!isMatch) {
       return res.status(400).json({ msg: 'Password Incorrecto' })
