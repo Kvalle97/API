@@ -1,8 +1,8 @@
 
 import { getConnection, sql, queries } from "../database"
-//var bcrypt = require('bcryptjs');
+var bcrypt = require('bcryptjs');
 //var crypto = require('crypto');
-var md5 = require('md5');
+//var md5 = require('md5');
 const jwt = require('jsonwebtoken');
 
 export const Signup = async (req, res) => {
@@ -13,9 +13,9 @@ export const Signup = async (req, res) => {
     return res.status(400).json({ msg: 'Bad Request' })
   }
   try {
-    //let Password = await bcrypt.hash(password, 10);
+    let Password = await bcrypt.hash(password, 10);
     //let Password = crypto.createHash('sha256').update(password).digest('hex');
-    let Password = md5(password);
+    //let Password = md5(password);
     const pool = await getConnection();
     await pool.request()
 
