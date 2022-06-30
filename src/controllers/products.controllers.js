@@ -43,9 +43,50 @@ for (var i = 0; i < datos.length; i++) {
         } 
     }
 }
-
 // Mostrar resultado formateado como JSON
 res.send(JSON.stringify(objetos, null, 4));
-
-
 };  
+
+//export const getproductscodigo = async (reg,res) => {
+    
+    //const pool = await getConnection();
+    //const result = await pool.request().query('EXEC dbo.SpReplicaApiListarProductos')
+    //var datos = ((result.recordset));
+    //for (var i = 0; i < datos.length; i++) {
+        //if (datos[i].Codigo == reg.params.Codigo) {
+            //res.json(datos[i]);
+        //} else  {
+           //res.send("No existe el producto");
+        //}
+    //}
+//}
+export const getproductscodigo = async (reg,res) => {
+    const Codigo = reg.params.Codigo;
+    const pool = await getConnection();
+    const result = await pool.request()
+    .input("Codigo", Codigo)
+    .execute('SpReplicaApiListarInfoxCodigoProducto');
+    if (result.recordset.length === 0) {
+        return res.status(404).json({ msg: 'No Existe registro' })
+    }
+    res.send(result.recordsets[0]);
+}
+
+export const getproductscodigoandsucursal = async (reg,res) => {
+    const  Codigo = reg.params.Codigo;
+    const Empresa = reg.params.Empresa;
+    const pool = await getConnection(); 
+    const result = await pool.request()
+    .input("Codigo", Codigo)
+    .input("IdEmpresa", Empresa)
+    .execute('SpReplicaApiObtenerInfoxCodigoProductoxEmpresa');
+    if (result.recordset.length === 0) {
+        return res.status(404).json({ msg: 'No Existe registro' })
+    }
+    res.send(result.recordsets[0]);
+
+}
+
+
+
+        

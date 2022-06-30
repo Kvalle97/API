@@ -1,18 +1,21 @@
 
 import { getConnection, sql, queries } from "../database"
-var bcrypt = require('bcryptjs');
-
+//var bcrypt = require('bcryptjs');
+//var crypto = require('crypto');
+var md5 = require('md5');
 const jwt = require('jsonwebtoken');
 
-export const Signup= async (req, res) => {
+export const Signup = async (req, res) => {
 
   const { Id, Nombre, Apellidos, Email, password } = req.body;
 
-  if (Email == null || password == null || Nombre == null || Apellidos == null ) {
-    return res.status(400).json({ msg: 'Bad Request' }) 
+  if (Email == null || password == null || Nombre == null || Apellidos == null) {
+    return res.status(400).json({ msg: 'Bad Request' })
   }
   try {
-    let Password = await bcrypt.hash(password, 10);
+    //let Password = await bcrypt.hash(password, 10);
+    //let Password = crypto.createHash('sha256').update(password).digest('hex');
+    let Password = md5(password);
     const pool = await getConnection();
     await pool.request()
 
@@ -25,7 +28,7 @@ export const Signup= async (req, res) => {
     const token = jwt.sign({ Id }, 'secret', {
       expiresIn: 60 * 60 * 24
     })
-    res.json({ auth: true, token: token, Username: Email});
+    res.json({ auth: true, token: token, Username: Email });
   } catch (error) {
     res.status(500)
     res.send(error.message);
@@ -33,8 +36,8 @@ export const Signup= async (req, res) => {
 };
 
 export const Signin = async (req, res) => {
-  const { Email, password } = req.body;
-  if (Email == null || password == null) {
+  const { Email, Password } = req.body;
+  if (Email == null || Password == null) {
     return res.status(400).json({ msg: 'Bad Request' })
   }
   try {
@@ -46,7 +49,8 @@ export const Signin = async (req, res) => {
       return res.status(404).json({ msg: 'No Existe registro' })
     }
     const user = result.recordset[0];
-    const isMatch = await bcrypt.compare(password, user.Password);
+    //const isMatch = await bcrypt.compare(password, user.Password)
+    const isMatch = md5(Password) === user.Password;
     if (!isMatch) {
       return res.status(400).json({ msg: 'Password Incorrecto' })
     }
